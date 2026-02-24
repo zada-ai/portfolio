@@ -74,8 +74,6 @@ export function meta({}: Route.MetaArgs) {
 
 
 export default function Home() {
-  const [selected, setSelected] = useState<null | keyof typeof projects>(null);
-
   return (
     <div className="bg-black flex flex-col items-center">
      
