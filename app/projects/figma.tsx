@@ -98,9 +98,7 @@ export default function FigmaProject() {
 
         </div>
 
-
-
-        ``{/* Back Button */}
+        {/* Back Button */}
 
         <div className="mt-12 text-center">
 

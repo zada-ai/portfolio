@@ -7,13 +7,14 @@ import Wordpress from "./routes/projects/wordpress";
 import Figma from "./routes/projects/figma";
 
 function App() {
-  return (    <Routes>
+  return (
+    <Routes>
       <Route path="/" element={<Projects />} />
       <Route path="/projects/fullstack" element={<Fullstack />} />
       <Route path="/projects/wordpress" element={<Wordpress />} />
       <Route path="/projects/figma" element={<Figma />} />
     </Routes>
-  );    ``
+  );
 }
 
 export default App;

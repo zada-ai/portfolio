@@ -1,6 +1,5 @@
 import type { Route } from "./+types/home";
-import React, { useState } from "react";
-import { FaReact, FaWordpress, FaFigma } from "react-icons/fa";
+import React from "react";
 import Navbar from "./navbar";
 import About from "./about";
 import Skills from './skills';  // extension .tsx hatao
