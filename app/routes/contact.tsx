@@ -139,7 +139,7 @@ text-sm
 md:text-base
 ">
 
-Need a website or web app?
+Need a website or web apps?
 
 I am available for freelance projects.
 
